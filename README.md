@@ -1,9 +1,12 @@
 Nama        : Brian Cahya Purnama
+
 NIM         : H1D022009
+
 Shift Baru  : D
+
 Shift Lama  : C
 
-# Penjelasan Proses Pengiriman Data dari Form ke Tampilan
+# Proses Pengiriman Data dari Form ke Tampilan
 ## 1. InputData di FormData
 
 Pertama, dalam widget FormData (form_data.dart), kita memiliki tiga TextEditingController:
